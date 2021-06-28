@@ -1,7 +1,7 @@
 # Git Exercises
 
 ## Steps
-
+You can use this project for your first Git and GitHub repos. Use the index.html file to make changes.
 
 
 ### Initialize
@@ -107,3 +107,23 @@ Use the following command to undo the commit from the previous exercise.
 ```
 git reset --soft HEAD~1
 ```
+
+# GitHub Exercises
+
+## Sign up for GitHub
+Sign up for an account on GitHub.
+
+## Create a remote repository
+Create a remote repository on GitHub.
+
+## Add a remote repository to your project
+Use the command from the tutorial to add the remote repository to your project.
+
+## Push changes to your remote repository
+Use the command from the tutorial to push your changes to GitHub.
+
+## Create a pull request
+This exercise requires that you have 2 branches. If you don't have 2 branches, you can create a 2nd one and make a commit on it. Then you can create the pull request. Then try merging the branches.
+
+## Get changes from remote repository
+Use the command from the tutorial to get the changes from your remote repository.
